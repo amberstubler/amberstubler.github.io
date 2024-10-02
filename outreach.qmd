@@ -4,11 +4,11 @@ title: "Teaching and Outreach"
 
 ![](docs/quadrat.jpg)
 
-### Teaching Experience 
+### **Teaching Experience**
 
 #### **Current Courses**
 
-BIO105: [MARINE BIOLOGY](https://oxy.smartcatalogiq.com/en/2024-2025/catalog/course-descriptions/bio-biology/100/bio-105/), Occidental College \
+BIO105: [MARINE BIOLOGY](https://oxy.smartcatalogiq.com/en/2024-2025/catalog/course-descriptions/bio-biology/100/bio-105/), Occidental College\
 This course is designed for non-majors and will be an introductory survey of marine organisms and their environment. It will cover fishes, invertebrates, mammals, reptiles, and algae. Included will be an investigation of behavior, ecology, adaptations, and environmental relationships to humans. An emphasis will be placed on forms common to California.
 
 #### **Previous Experience**
@@ -26,7 +26,7 @@ OCEANOGRAPHY; [OCEAN ACIDIFICATION UNIT](http://www.southamptonschools.org/news
 Guest lecturer for the ocean acidification unit at a local high school; created a two-week unit exploring acidification using a series of lab experiments and reading assignments.\
 \
 
-### Mentoring Experience
+### **Mentoring Experience**
 
 [Graduate Committee Member:]{.underline}\
 Emily Fox, MS candidate\
