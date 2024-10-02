@@ -2,4 +2,42 @@
 title: "Teaching and Outreach"
 ---
 
-HOLD FOR CLASSES AND OTHER OUTREACH ENDEVORS
+![](docs/quadrat.jpg)**Oxy Courses**
+
+BIO105 Marine Biology\
+
+### **Previous Teaching Experience** 
+
+MAR 105: INTRODUCTION TO OCEANOGRAPHY (Fall and Spring 2015), Suffolk County Community College\
+This course focused on life in the oceans against a background of its interaction with the physical, chemical and geological environment. Lectures, laboratory and field trips are employed to explore fundamental properties which underlie oceanic phenomena.\
+\
+MAR 388: [TROPICAL MARINE ECOLOGY](http://www.tropical.blogs.com/) (January 2009-2014), Stony Brook University\
+This travel course to the Discovery Bay Marine Lab in Jamaica is designed to literally immerse students in marine ecology. The course consists of formal lectures, demonstrations and instructor-led field trips and involves snorkeling, SCUBA diving, and underwater photography. Students develop individual research projects requiring field observations and collecting data and write a research proposal and final research papers.\
+\
+WISE 187: [WOMEN IN SCIENCE AND ENGINEERING](http://sb.cc.stonybrook.edu/bulletin/current/courses/wse/#187) (Introduction to Research; Spring 2011), Stony Brook University\
+An introduction to and hands-on experience in doing research in mathematics, engineering, and several science disciplines within a group setting. The students rotate among several research environments: computer science, mathematics, social sciences, natural sciences and engineering. Within each environment they are given background readings, instructed in the problem to be studied, jointly carry out a small experiment related to the problem, and discuss the social implications of the research problem. Students make presentations related to one of the projects in which they participate. Enrollment limited to first-year women in the WISE program.\
+\
+OCEANOGRAPHY; [OCEAN ACIDIFICATION UNIT](http://www.southamptonschools.org/news.cfm?story=140824&school=1111), Southampton High School (Spring 2014)\
+Guest lecturer for the ocean acidification unit at a local high school; created a two-week unit exploring acidification using a series of lab experiments and reading assignments.\
+\
+
+### Mentoring Experience 
+
+[Graduate Committee Member:]{.underline}\
+Emily Fox, MS candidate\
+\
+[Honors Thesis Advisor:]{.underline}\
+Alyssa Stevens\
+\
+[Undergraduate Research Mentor:]{.underline}\
+Jamie Gay\
+Sarah White\
+Kaitlyn O'Toole\
+Tracey Vlasak\
+Michelle Lewis\
+GraceAnne Taylor\
+Brooke Morrell\
+Paulina Miczko\
+\
+[High School Research Mentor:]{.underline}\
+Timothy Squires
