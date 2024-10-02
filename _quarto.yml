@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Stubler Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: outreach.qmd
+        text: Teaching and Outreach
+      - href: publications.qmd
+        text: Publications
+        
+        
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+
