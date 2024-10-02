@@ -4,7 +4,10 @@ title: "Publications"
 
 ![](docs/coral.jpg){fig-align="right"}
 
-[**Stubler Google Scholar**](https://scholar.google.com/citations?hl=en&user=XS-Ij5AAAAAJ&view_op=list_works&sortby=pubdate)\
+[**Stubler Google Scholar**](https://scholar.google.com/citations?hl=en&user=XS-Ij5AAAAAJ&view_op=list_works&sortby=pubdate)
+
+### Publications
+
 10. **Stubler AD,** Robertson H, Styron HJ, Carroll JM, and CM Finelli (In Press) Reproductive and recruitment dynamics of clionaid sponges on oyster reefs in North Carolina. Invertebrate Biology.\
 \
 9. **Stubler AD**, Jackson LJ, Furman BT and BJ Peterson (2017) Seed production patterns in *Zostera marina*: effects of patch size and landscape configuration. Estuaries and Coasts 40:564-572.\
@@ -25,7 +28,9 @@ title: "Publications"
 \
 1. Duckworth A, West L, Vansach T, **Stubler AD** and M Hardt. (2012) Effects of water temperatures and pH on growth and metabolite biosynthesis of coral reef sponges. Marine Ecology Progress Series, 462: 66-77.﻿\
 \
-**PRESENTATIONS**\
+
+### **Presentations**
+
 44th Annual Benthic Ecology Meeting, Quebec City, Canada 2015        Oral Presentation\
 43rd Annual Benthic Ecology Meeting, Jacksonville, FL, 2014                 Poster Presentation\
 41st Annual Benthic Ecology Meeting, Norfolk, VA.  2012                       Oral Presentation \
@@ -34,6 +39,7 @@ VIII World Sponge Conference, Girona, Spain. 2010                 �
 39th Annual Benthic Ecology Meeting, Wilmington, NC. 2010                Oral Presentation\
 38th Annual Benthic Ecology Meeting, Corpus Christi, TX. 2009            Poster Presentation\
 37th Annual Benthic Ecology Meeting, Providence, RI. 2008                  Oral Presentation\
-\
-**JOURNAL REVIEWER**\
+
+### **Journal Reviewer**
+
 Marine Ecology Progress Series, Marine Biology, ICES Journal of Marine Science, Bulletin of Marine Science, Coral Reefs
