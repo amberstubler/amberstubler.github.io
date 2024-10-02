@@ -2,7 +2,9 @@
 title: "Publications"
 ---
 
-﻿**PUBLICATIONS**\
+![](docs/coral.jpg){fig-align="right"}
+
+[**Stubler Google Scholar**](https://scholar.google.com/citations?hl=en&user=XS-Ij5AAAAAJ&view_op=list_works&sortby=pubdate)\
 10. **Stubler AD,** Robertson H, Styron HJ, Carroll JM, and CM Finelli (In Press) Reproductive and recruitment dynamics of clionaid sponges on oyster reefs in North Carolina. Invertebrate Biology.\
 \
 9. **Stubler AD**, Jackson LJ, Furman BT and BJ Peterson (2017) Seed production patterns in *Zostera marina*: effects of patch size and landscape configuration. Estuaries and Coasts 40:564-572.\
