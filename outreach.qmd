@@ -2,11 +2,13 @@
 title: "Teaching and Outreach"
 ---
 
-![](docs/quadrat.jpg)**Oxy Courses**
+![](docs/quadrat.jpg)
+
+### **Occidental Courses**
 
 BIO105 Marine Biology\
 
-### **Previous Teaching Experience** 
+### **Previous Teaching Experience**
 
 MAR 105: INTRODUCTION TO OCEANOGRAPHY (Fall and Spring 2015), Suffolk County Community College\
 This course focused on life in the oceans against a background of its interaction with the physical, chemical and geological environment. Lectures, laboratory and field trips are employed to explore fundamental properties which underlie oceanic phenomena.\
@@ -21,7 +23,7 @@ OCEANOGRAPHY; [OCEAN ACIDIFICATION UNIT](http://www.southamptonschools.org/news
 Guest lecturer for the ocean acidification unit at a local high school; created a two-week unit exploring acidification using a series of lab experiments and reading assignments.\
 \
 
-### Mentoring Experience 
+### Mentoring Experience
 
 [Graduate Committee Member:]{.underline}\
 Emily Fox, MS candidate\

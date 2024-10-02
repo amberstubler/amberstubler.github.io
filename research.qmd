@@ -1,4 +1,7 @@
 ---
 title: "Research"
 ---
-HOLD FOR UPADTING CURRENT RESEARCH 
+
+![](docs/labsetup.jpg){fig-align="center"}
+
+HOLD FOR UPADTING CURRENT RESEARCH
