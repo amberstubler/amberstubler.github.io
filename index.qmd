@@ -14,11 +14,16 @@ about:
     - icon: File
       text: CV
       href: cv.pdf
-      id: ppc
 ---
 
 ::: {#ppc}
-Welcome to the Stubler Lab at [Occidental College](https://www.oxy.edu/) in Los Angeles, CA! Our lab focuses on how anthropogenic impacts affect marine ecosystems. More specifically we use
+Welcome to the Stubler Lab at [Occidental College](https://www.oxy.edu/) in Los Angeles, CA!
+
+Our lab studies how anthropogenic impacts affect marine ecosystems. Our current research interest include investigating the effect of climate change on benthic communities and in particular sponge, coral reef, seagrass, and kelp ecosystems. We use a variety of methods including research aquariums and field based experiments
+
+We invite you to explore the website to learn more about our work and lab.
+
+![](sponges.jpg)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 :::
