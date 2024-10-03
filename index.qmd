@@ -1,8 +1,9 @@
 ---
-title: "Amber D. Stubler"
+title: "Amber D. Stubler
+Assistant Professor"
 about:
   template: trestles
-  image: profile.jpg
+  image: ambersponge.jpg
   links:
     - icon: envelop
       text: email
@@ -17,9 +18,7 @@ about:
 ---
 
 ::: {#ppc}
-Hello! I am a Assistant Professor in the Department of Biology at [Occidental College](https://www.oxy.edu/) in Los Angeles, CA
-
-As a researcher with broad interests in how anthropogenic impacts affect marine ecosystems, I have developed a research program focused on studies of coral reef ecology, seagrass ecology, species interactions, and larval recruitment in the face of anthropogenically induced sedimentation, eutrophication and ocean acidification. Recently, I have become interested in how climate change and ocean acidification will influence biogenic habitat engineers and subsequently habitat complexity, and how these changes will cascade throughout the ecosystem.
+Welcome to the Stubler Lab at [Occidental College](https://www.oxy.edu/) in Los Angeles, CA! Our lab focuses on how anthropogenic impacts affect marine ecosystems. More specifically we use
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 :::
