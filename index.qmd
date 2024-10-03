@@ -23,7 +23,9 @@ Our lab studies how anthropogenic impacts affect marine ecosystems. Our current 
 
 We invite you to explore the website to learn more about our work and lab.
 
-![](sponges.jpg)
+![](docs/sponges.jpg){fig-align="center"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+----------------------------------------------------------------------------------
+
+This website was fully built in RStudio and Quarto. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 :::
