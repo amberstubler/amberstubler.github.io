@@ -1,5 +1,58 @@
 ---
 title: "People"
+format: 
+  html: default
 ---
 
-![Dr. Amber Stubler](docs/profile.jpg){fig-align="left"}
+<style>
+  @media (max-width: 768px) {
+      .columns {
+          display: block; /* Stack columns vertically on smaller screens */
+      }
+      .column {
+          width: 100%; /* Full width for each column */
+          margin-bottom: 20px; /* Space between stacked columns */
+      }
+      img {
+          width: 100%; /* Ensure images take full width */
+          height: auto; /* Maintain aspect ratio */
+      }
+  }
+</style>
+
+## Principal Investigator 
+
+::::: columns
+::: column
+### **Dr. Amber Stubler**
+
+Dr. Stubler is an Assistant Professor at Occidental College in the biology department. Amber obtained both her B.S. and PhD from Stony Brook University, in New York. Her research spans both coasts of the United States, Jamaica, and Panama. In addition to conducting research she teaches Marine Biology and Biological Oceanography at Oxy.
+
+:::
+
+::: column
+![](docs/profile.jpg){width="100%"}
+:::
+:::::
+
+## Staff 
+
+::::: columns
+::: column
+### **Maggie Dillon**
+
+Maggie is a Research Assistant in the Stubler Lab. She is working on a NSF funded project titled "Understanding bioerosion from individuals to ecosystems: the impacts of biotic and abiotic stressors on sponge erosion of oyster reefs."
+:::
+
+::: column
+![](docs/maggie.jpg){width="80%"}
+:::
+:::::
+
+## Students Spotlights 
+
+
+## Lab Alumni
+
+## Join Us 
+The Stubler Lab is not currently accepting undergraduate volunteers. Check out the links below for other ways to get involved on campus and in southern California

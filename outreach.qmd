@@ -11,6 +11,9 @@ title: "Teaching and Outreach"
 BIO105: [MARINE BIOLOGY](https://oxy.smartcatalogiq.com/en/2024-2025/catalog/course-descriptions/bio-biology/100/bio-105/), Occidental College\
 This course is designed for non-majors and will be an introductory survey of marine organisms and their environment. It will cover fishes, invertebrates, mammals, reptiles, and algae. Included will be an investigation of behavior, ecology, adaptations, and environmental relationships to humans. An emphasis will be placed on forms common to California.
 
+BIO369: [BIOLOGICAL OCEANOGRAPHY](https://oxy.smartcatalogiq.com/en/2024-2025/catalog/course-descriptions/bio-biology/300/bio-369/), Occidental College\
+Biological oceanography will focus on the biology of the open ocean with emphasis placed on relating parameters of the physical-chemical ocean to the distribution and abundance of marine organisms. We will focus on understanding the physical and biological processes of the southern California marine area using field and laboratory techniques.
+
 #### **Previous Experience**
 
 MAR 105: INTRODUCTION TO OCEANOGRAPHY (Fall and Spring 2015), Suffolk County Community College\
