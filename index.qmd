@@ -25,7 +25,7 @@ We invite you to explore the website to learn more about our work and lab.
 
 ![](docs/sponges.jpg){fig-align="center"}
 
-----------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 This website was fully built in RStudio and Quarto. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 :::
