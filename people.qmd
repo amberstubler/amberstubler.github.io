@@ -20,14 +20,13 @@ format:
   }
 </style>
 
-## Principal Investigator 
+## Principal Investigator
 
 ::::: columns
 ::: column
 ### **Dr. Amber Stubler**
 
 Dr. Stubler is an Assistant Professor at Occidental College in the biology department. Amber obtained both her B.S. and PhD from Stony Brook University, in New York. Her research spans both coasts of the United States, Jamaica, and Panama. In addition to conducting research she teaches Marine Biology and Biological Oceanography at Oxy.
-
 :::
 
 ::: column
@@ -35,7 +34,7 @@ Dr. Stubler is an Assistant Professor at Occidental College in the biology depar
 :::
 :::::
 
-## Staff 
+## Staff
 
 ::::: columns
 ::: column
@@ -49,10 +48,10 @@ Maggie is a Research Assistant in the Stubler Lab. She is working on a NSF funde
 :::
 :::::
 
-## Students Spotlights 
-
+## Students Spotlights
 
 ## Lab Alumni
 
-## Join Us 
+## Join Us
+
 The Stubler Lab is not currently accepting undergraduate volunteers. Check out the links below for other ways to get involved on campus and in southern California

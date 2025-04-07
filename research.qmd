@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-![](docs/labsetup.jpg){fig-align="center"}
+![](docs/spongeonshell.jpg){fig-align="center"}
 
 This page is under construction come back later to learn more!
 
