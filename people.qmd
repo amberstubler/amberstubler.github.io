@@ -4,6 +4,7 @@ format:
   html: default
 ---
 
+```{=html}
 <style>
   @media (max-width: 768px) {
       .columns {
@@ -19,6 +20,7 @@ format:
       }
   }
 </style>
+```
 
 ## Principal Investigator
 
@@ -48,10 +50,18 @@ Maggie is a Research Assistant in the Stubler Lab. She is working on a NSF funde
 :::
 :::::
 
-## Students Spotlights
-
 ## Lab Alumni
 
 ## Join Us
 
 The Stubler Lab is not currently accepting undergraduate volunteers. Check out the links below for other ways to get involved on campus and in southern California
+
+## Other Opportunities 
+
+1.  **REU Summer Internship**
+
+    Apply for a Research Experience for Undergraduates (REU). You'll conduct research for 10 weeks over the summer at university with funding from US National Science Foundation (NSF).
+
+2.  **NOAA Hollings Scholar** <https://www.noaa.gov/office-education/hollings->
+
+    Scholarship for 2nd year students: NOAA's Ernest F. Hollings Undergraduate Scholarship recognizes outstanding students studying in NOAA mission fields. Scholars receive up to \$9,500 per academic year to support their studies, as well as paid summer internship opportunities at NOAA facilities across the U.S. Hollings alumni report that the experience influenced their academic and career paths, expanded their professional networks and improved their skills for working in NOAA mission fields. Of Hollings scholars surveyed, 100% would recommend this opportunity to other students.
